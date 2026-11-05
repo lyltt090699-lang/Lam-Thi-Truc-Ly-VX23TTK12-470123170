@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="MacBook Air">
+  <rect width="240" height="240" rx="28" fill="#f5f5f7"/>
+  <rect x="48" y="46" width="144" height="96" rx="8" fill="#2c3642"/>
+  <rect x="58" y="56" width="124" height="76" rx="4" fill="#8e8e93"/>
+  <path d="M36 150h168l-12 22H48z" fill="#d2d2d7"/>
+</svg>

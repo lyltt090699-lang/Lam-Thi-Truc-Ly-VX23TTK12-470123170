@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Cap USB-C">
+  <rect width="240" height="240" rx="28" fill="#f5f5f7"/>
+  <path d="M48 120h144" stroke="#1d1d1f" stroke-width="8" stroke-linecap="round"/>
+  <rect x="36" y="108" width="22" height="24" rx="4" fill="#6e6e73"/>
+  <rect x="182" y="108" width="22" height="24" rx="4" fill="#6e6e73"/>
+</svg>
